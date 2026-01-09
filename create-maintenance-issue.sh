@@ -2,6 +2,8 @@
 
 # Script to create a scheduled maintenance issue for Upptime
 # This script requires the GitHub CLI (gh) to be installed and authenticated
+#
+# Make this file executable with: chmod +x create-maintenance-issue.sh
 
 set -e
 
@@ -50,13 +52,11 @@ echo "Title: $TITLE"
 echo ""
 
 # Create the issue
-gh issue create \
+if gh issue create \
   --repo "$REPO" \
   --title "$TITLE" \
   --label "$LABEL" \
-  --body "$BODY"
-
-if [ $? -eq 0 ]; then
+  --body "$BODY"; then
     echo ""
     echo "✓ Maintenance issue created successfully!"
     echo ""
