@@ -11,13 +11,6 @@ sites:
 status-website:
   name: Mnazz Status
   cname: status.mnazz.com
-  navbar:
-    - title: Status
-      href: /
-    - title: History
-      href: /history
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
