@@ -45,12 +45,16 @@ Planned maintenance for the Mnazz Website. The service will be temporarily unava
 ### Option 2: Create via GitHub CLI
 Run the following command from your terminal (requires `gh` CLI to be authenticated):
 
+**Note:** For the easiest method, use the helper script `./create-maintenance-issue.sh` which handles all the escaping automatically.
+
+Alternatively, you can create the issue with this command (note the careful quoting):
+
 ```bash
 gh issue create \
   --repo DevMnazz/mnazz-status \
   --title "[Scheduled Maintenance] Mnazz Website Maintenance" \
   --label "maintenance" \
-  --body "<!--
+  --body '<!--
 start: 2026-01-09T18:00:00.000Z
 end: 2026-01-10T18:00:00.000Z
 expectedDown: mnazz-website
@@ -69,7 +73,7 @@ expectedDown: mnazz-website
 Planned maintenance for the Mnazz Website. The service will be temporarily unavailable during this maintenance window.
 
 ---
-*This maintenance window is being tracked by Upptime. The status page will reflect this as scheduled maintenance rather than an outage.*"
+*This maintenance window is being tracked by Upptime. The status page will reflect this as scheduled maintenance rather than an outage.*'
 ```
 
 ### Option 3: Use the Helper Script
