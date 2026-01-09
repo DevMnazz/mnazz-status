@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mc.mnazz.com.ico",
     "slug": "mnazz-mc-wiki",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.34%",
+    "uptimeDay": "2.34%",
+    "uptimeWeek": "2.34%",
+    "uptimeMonth": "2.34%",
+    "uptimeYear": "2.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   }
 ]
