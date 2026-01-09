@@ -22,19 +22,19 @@
     "url": "https://mc.mnazz.com",
     "icon": "https://icons.duckduckgo.com/ip3/mc.mnazz.com.ico",
     "slug": "mnazz-mc-wiki",
-    "status": "down",
-    "uptime": "86.72%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "86.72%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "86.72%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "20.57%",
+    "uptimeDay": "20.57%",
+    "uptimeWeek": "20.57%",
+    "uptimeMonth": "20.57%",
+    "uptimeYear": "20.57%",
+    "time": 328,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2026-01-09": 20
+      "2026-01-09": 502
     }
   }
 ]
