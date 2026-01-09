@@ -43,11 +43,13 @@ Planned maintenance for the Mnazz Website. The service will be temporarily unava
 6. Click "Submit new issue"
 
 ### Option 2: Create via GitHub CLI
-Run the following command from your terminal (requires `gh` CLI to be authenticated):
 
-**Note:** For the easiest method, use the helper script `./create-maintenance-issue.sh` which handles all the escaping automatically.
+**Recommended:** Use the helper script which handles all the complexity:
+```bash
+./create-maintenance-issue.sh
+```
 
-Alternatively, you can create the issue with this command (note the careful quoting):
+**Alternative:** Run the gh command directly. The body must be enclosed in single quotes (`'...'`) to preserve line breaks and prevent shell interpretation of special characters:
 
 ```bash
 gh issue create \
@@ -75,6 +77,8 @@ Planned maintenance for the Mnazz Website. The service will be temporarily unava
 ---
 *This maintenance window is being tracked by Upptime. The status page will reflect this as scheduled maintenance rather than an outage.*'
 ```
+
+> **Note:** Single quotes (`'`) prevent the shell from interpreting special characters. Do not use double quotes (`"`) as they will cause shell expansion issues.
 
 ### Option 3: Use the Helper Script
 Run the script `create-maintenance-issue.sh` that has been created in this repository.

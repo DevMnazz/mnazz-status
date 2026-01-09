@@ -40,15 +40,13 @@ The easiest way is to use the provided helper script:
 
 ### Method 3: GitHub CLI Command
 
-Run this command directly:
+For advanced users, you can directly run:
 
 ```bash
-gh issue create \
-  --repo DevMnazz/mnazz-status \
-  --title "[Scheduled Maintenance] Mnazz Website Maintenance" \
-  --label "maintenance" \
-  --body "$(cat MAINTENANCE_ISSUE.md | sed -n '/^```$/,/^```$/p' | sed '1d;$d')"
+./create-maintenance-issue.sh
 ```
+
+Or view the script content to see the exact `gh issue create` command with proper escaping.
 
 ## How It Works
 
