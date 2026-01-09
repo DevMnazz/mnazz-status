@@ -26,6 +26,7 @@ if ! gh auth status &> /dev/null; then
 fi
 
 # Issue body with maintenance window
+# This is a 24-hour maintenance window: Jan 9 @ 1:00 PM EST to Jan 10 @ 1:00 PM EST
 BODY='<!--
 start: 2026-01-09T18:00:00.000Z
 end: 2026-01-10T18:00:00.000Z
@@ -37,7 +38,8 @@ expectedDown: mnazz-website
 **Service:** Mnazz Website (https://mnazz.com)
 
 **Start Time:** January 9, 2026 at 1:00 PM EST (18:00 UTC)  
-**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)
+**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)  
+**Duration:** 24 hours
 
 **Expected Status:** Down
 

@@ -18,7 +18,8 @@ expectedDown: mnazz-website
 **Service:** Mnazz Website (https://mnazz.com)
 
 **Start Time:** January 9, 2026 at 1:00 PM EST (18:00 UTC)  
-**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)
+**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)  
+**Duration:** 24 hours
 
 **Expected Status:** Down
 
@@ -67,7 +68,8 @@ expectedDown: mnazz-website
 **Service:** Mnazz Website (https://mnazz.com)
 
 **Start Time:** January 9, 2026 at 1:00 PM EST (18:00 UTC)  
-**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)
+**End Time:** January 10, 2026 at 1:00 PM EST (18:00 UTC)  
+**Duration:** 24 hours
 
 **Expected Status:** Down
 

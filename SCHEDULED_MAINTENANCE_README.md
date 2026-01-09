@@ -38,15 +38,9 @@ The easiest way is to use the provided helper script:
 5. Ensure the `maintenance` label is applied
 6. Click "Submit new issue"
 
-### Method 3: GitHub CLI Command
+### Method 3: Direct GitHub CLI
 
-For advanced users, you can directly run:
-
-```bash
-./create-maintenance-issue.sh
-```
-
-Or view the script content to see the exact `gh issue create` command with proper escaping.
+For advanced users who want to customize the command, see the example in [MAINTENANCE_ISSUE.md](./MAINTENANCE_ISSUE.md) which shows the complete `gh issue create` command with proper shell quoting.
 
 ## How It Works
 
