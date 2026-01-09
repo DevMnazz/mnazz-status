@@ -7,8 +7,8 @@ sites:
     url: https://panel.mnazz.com
 
 status-website:
-  baseUrl: /mnazz-status # where "repo" is your repository name
   name: Mnazz Status
+  cname: status.mnazz.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
