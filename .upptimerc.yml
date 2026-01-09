@@ -5,6 +5,8 @@ repo: mnazz-status # The name of this repository
 sites:
   - name: Mnazz Panel
     url: https://panel.mnazz.com
+  - name: MnazzMC Wiki
+    url: https://mc.mnazz.com
 
 status-website:
   name: Mnazz Status
