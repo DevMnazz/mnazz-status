@@ -1,5 +1,7 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
+> **🔧 Scheduled Maintenance:** To set up scheduled maintenance for monitored services, see [QUICKSTART.md](./QUICKSTART.md) for immediate instructions or [SCHEDULED_MAINTENANCE_README.md](./SCHEDULED_MAINTENANCE_README.md) for detailed documentation.
+
 This repository contains the open-source uptime monitor and status page for [Mnazz](https://mnazz.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/DevMnazz/mnazz-status/workflows/Uptime%20CI/badge.svg)](https://github.com/DevMnazz/mnazz-status/actions?query=workflow%3A%22Uptime+CI%22)
