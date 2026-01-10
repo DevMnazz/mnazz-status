@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 1155,
+      "2026-01-10": 1276,
       "2026-01-09": 235
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://panel.mnazz.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.mnazz.com.ico",
     "slug": "mnazz-panel",
-    "status": "down",
-    "uptime": "76.49%",
-    "uptimeDay": "57.16%",
-    "uptimeWeek": "76.49%",
-    "uptimeMonth": "76.49%",
-    "uptimeYear": "76.49%",
-    "time": 467,
-    "timeDay": 499,
-    "timeWeek": 467,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "status": "up",
+    "uptime": "73.13%",
+    "uptimeDay": "48.76%",
+    "uptimeWeek": "73.13%",
+    "uptimeMonth": "73.13%",
+    "uptimeYear": "73.13%",
+    "time": 460,
+    "timeDay": 462,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2026-01-10": 617
+      "2026-01-10": 737
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://mc.mnazz.com",
     "icon": "https://icons.duckduckgo.com/ip3/mc.mnazz.com.ico",
     "slug": "mnazz-mc-wiki",
-    "status": "down",
-    "uptime": "54.81%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "54.81%",
-    "uptimeMonth": "54.81%",
-    "uptimeYear": "54.81%",
-    "time": 417,
-    "timeDay": 461,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "status": "up",
+    "uptime": "52.25%",
+    "uptimeDay": "48.83%",
+    "uptimeWeek": "52.25%",
+    "uptimeMonth": "52.25%",
+    "uptimeYear": "52.25%",
+    "time": 409,
+    "timeDay": 489,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-01-10": 616,
+      "2026-01-10": 737,
       "2026-01-09": 502
     }
   }
