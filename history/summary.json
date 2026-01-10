@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-09": 28
+      "2026-01-10": 1,
+      "2026-01-09": 235
     }
   },
   {
@@ -31,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 459,
+    "timeDay": 447,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
@@ -43,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mc.mnazz.com.ico",
     "slug": "mnazz-mc-wiki",
     "status": "up",
-    "uptime": "54.82%",
-    "uptimeDay": "54.82%",
-    "uptimeWeek": "54.82%",
-    "uptimeMonth": "54.82%",
-    "uptimeYear": "54.82%",
-    "time": 350,
-    "timeDay": 350,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "uptime": "61.96%",
+    "uptimeDay": "61.96%",
+    "uptimeWeek": "61.96%",
+    "uptimeMonth": "61.96%",
+    "uptimeYear": "61.96%",
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2026-01-09": 502
     }
